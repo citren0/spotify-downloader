@@ -122,4 +122,3 @@ venv/bin/python download_playlist.py 37i9dQZF1DXcBWIGoYBM5M --bitrate 320 --thre
 Downloading YouTube audio may be against the YouTube Terms of Service in some
 jurisdictions, and redistribution of copyrighted music is generally not
 permitted. Use this tool for personal use only.
-# spotify-downloader
